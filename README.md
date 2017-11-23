@@ -11,6 +11,9 @@ Lisf of file
         comp_ds
             Compare datasets between different libraries, performing proc compare with the same dataset
             
+        comp_excel
+            Compare MS-Excel files between different folders, creating the report of results from comparing each files
+            
         copy_ds_2_new_nm
             Copy and rename specified dataset to the same library, adding a serial number as suffix to the original name
 
