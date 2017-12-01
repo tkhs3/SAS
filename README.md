@@ -19,3 +19,6 @@ Lisf of file
 
         crt_ds_4_mi
             Impute missing value of variables in specified dataset
+
+        out_ds_2_msword
+            output a dataset to the pre-existing table in the MS-Word file which is typically separate mock-up file composing an entire report
