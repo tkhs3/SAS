@@ -7,6 +7,10 @@ Overview
   
 Lisf of file
 
+    FUNCTION
+        fmt_date
+            Convert date or datetime represented in numeric to arbitrarily formatted string using format elements
+            
     MACRO
         comp_ds
             Compare datasets between different libraries, performing proc compare with the same dataset
