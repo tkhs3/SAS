@@ -1,4 +1,4 @@
-# SAS library
+### SAS library
 
 Overview
 
@@ -10,6 +10,8 @@ Lisf of file
     FUNCTION
         fmt_date
             Convert date or datetime represented in numeric to arbitrarily formatted string using format elements
+        round_num_2_char
+            Round numeric value to the specified digit and convert to character value
             
     MACRO
         comp_ds
